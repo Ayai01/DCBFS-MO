@@ -1,0 +1,18 @@
+{
+  "schema": "gaa-upstream-source-v1",
+  "repository": "https://github.com/matthewjwoodruff/generalaviation",
+  "commit": "6bbb4ed2f4be48c94bb9f325c6c04b39fff93acd",
+  "upstream_path": "c/GAA.h",
+  "url": "https://raw.githubusercontent.com/matthewjwoodruff/generalaviation/6bbb4ed2f4be48c94bb9f325c6c04b39fff93acd/c/GAA.h",
+  "sha256": "78d212c56ce8a08a88669d1cb8c339729cb7f5d0faeab3f1b88ef426a1b56a7c",
+  "bytes": 50778,
+  "license": "MIT",
+  "license_file": "LICENSE-MIT.txt",
+  "local_file": "GAA.h",
+  "native_dimensions": 27,
+  "native_objectives": 10,
+  "native_constraints": 1,
+  "underlying_signed_inequalities": 18,
+  "modification": "None; frozen original C text. No Python/LGPL coefficient data copied.",
+  "retrieved_utc": "2026-11-11T07:34:37.684Z"
+}

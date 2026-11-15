@@ -1,0 +1,522 @@
+{
+  "constrained-1700000001": {
+    "case": "constrained",
+    "seed": 1700000001,
+    "FE": 16000,
+    "paid": {
+      "X": {
+        "shape": [
+          16000,
+          6
+        ],
+        "dtype": "float32",
+        "SHA256": "d24d28e415b9476f50aced598df33e8323632013f5287597e691230b0889ef36"
+      },
+      "F": {
+        "shape": [
+          16000,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "e99157fbf3c10d2ed72e4fd7460491bc850dcf0ada5a904599f2a604a52dab13"
+      },
+      "G": {
+        "shape": [
+          16000,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "949507dff67bec5488a4d41b6782f65d293227dd03d9172c8fcb205c40b3c9b3"
+      },
+      "M": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "terminal": {
+      "X": {
+        "shape": [
+          1974,
+          6
+        ],
+        "dtype": "float32",
+        "SHA256": "21143b79b435bfd54aa24eb24dd89aadda977ff44da5341707f16761773a3269"
+      },
+      "F": {
+        "shape": [
+          1974,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "ce667691e43b1ab517b90aa3fec3a0dc03fb366c7f88f3cc00a04f481e80d12e"
+      },
+      "G": {
+        "shape": [
+          1974,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "7411bbd5c9bd483d168d1319f2b115c8d27f6823e01d9f0a05415618b8e25455"
+      }
+    }
+  },
+  "constrained-1700000021": {
+    "case": "constrained",
+    "seed": 1700000021,
+    "FE": 16000,
+    "paid": {
+      "X": {
+        "shape": [
+          16000,
+          6
+        ],
+        "dtype": "float32",
+        "SHA256": "ae1e8f51b3c23f496d61be84d03582b4ecf4f7ebe0dc40e08effb64f853c2f9d"
+      },
+      "F": {
+        "shape": [
+          16000,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "69c893b61e4d1e9f970c2b02741524219a3ad3769dd7b021b8eb582a0e770fff"
+      },
+      "G": {
+        "shape": [
+          16000,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "b1331172a7e8b4b841ff44d44171dc7b18172e471722dcf7778dc80f6272498c"
+      },
+      "M": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "terminal": {
+      "X": {
+        "shape": [
+          2066,
+          6
+        ],
+        "dtype": "float32",
+        "SHA256": "0fa7102a6d76840bb0cec4150ecca22da0727b189e60f4232a93df47b90d39e4"
+      },
+      "F": {
+        "shape": [
+          2066,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "d830b913b60d9a82f198bfe0e4ecc4a810bf4b675ef8bf49df442fad66204cc6"
+      },
+      "G": {
+        "shape": [
+          2066,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "0d70fc0b09065ef9c8de18e0f776d31b13ca5ba33e21113a82031483ac6f1cb3"
+      }
+    }
+  },
+  "dtlz2-1700000001": {
+    "case": "dtlz2",
+    "seed": 1700000001,
+    "FE": 16000,
+    "paid": {
+      "X": {
+        "shape": [
+          16000,
+          8
+        ],
+        "dtype": "float32",
+        "SHA256": "a73caae9f4fdbdef25c2ccaed62d48e8f3b1184cde8178e8ec4b65bd71e01699"
+      },
+      "F": {
+        "shape": [
+          16000,
+          3
+        ],
+        "dtype": "float32",
+        "SHA256": "564b4774e06b4df227c08e60394a7615f7d1560af2332643eee7ef7a27ca2d12"
+      },
+      "G": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "M": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "terminal": {
+      "X": {
+        "shape": [
+          8997,
+          8
+        ],
+        "dtype": "float32",
+        "SHA256": "01dfe9428504cb654bdb3d900a68b960bff9f30346d19f0d289ee146388079d1"
+      },
+      "F": {
+        "shape": [
+          8997,
+          3
+        ],
+        "dtype": "float32",
+        "SHA256": "22b394963a0084cba905201a79980f72aa493ab9d8491487efcb7b65bd55c86e"
+      },
+      "G": {
+        "shape": [
+          8997,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    }
+  },
+  "dtlz2-1700000021": {
+    "case": "dtlz2",
+    "seed": 1700000021,
+    "FE": 16000,
+    "paid": {
+      "X": {
+        "shape": [
+          16000,
+          8
+        ],
+        "dtype": "float32",
+        "SHA256": "1ec7cb750f0f46dc02ea6f7b391d7ebd004491a859d3e736bc42dee6418849c9"
+      },
+      "F": {
+        "shape": [
+          16000,
+          3
+        ],
+        "dtype": "float32",
+        "SHA256": "dde76f078947473be0339a4e4452f58cf056d543dc2a0ef346be63eec6f52187"
+      },
+      "G": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "M": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "terminal": {
+      "X": {
+        "shape": [
+          8843,
+          8
+        ],
+        "dtype": "float32",
+        "SHA256": "62838e36731e891177099c1d956e205def898690b82652e229468e8eaa7df89a"
+      },
+      "F": {
+        "shape": [
+          8843,
+          3
+        ],
+        "dtype": "float32",
+        "SHA256": "7a4d2fea923cdb10e7c9ab7e4932883979549e9aa70ad94f4bd8ec43f5d0915e"
+      },
+      "G": {
+        "shape": [
+          8843,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    }
+  },
+  "missing-1700000001": {
+    "case": "missing",
+    "seed": 1700000001,
+    "FE": 16000,
+    "paid": {
+      "X": {
+        "shape": [
+          16000,
+          6
+        ],
+        "dtype": "float32",
+        "SHA256": "e7920f1f827764aa1987edc5874ed4e5a50c9148bfd96197e34d4580eeacc5d4"
+      },
+      "F": {
+        "shape": [
+          16000,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "0604682b5469687ee0e9bfe2a9d468d12d3f83fd871852ae4f8d5d0ff02457fb"
+      },
+      "G": {
+        "shape": [
+          16000,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "30b43ff811dc8977e3ae5a7b8a80babbc40f34ad6f3274375e31082194ac0b74"
+      },
+      "M": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "terminal": {
+      "X": {
+        "shape": [
+          1903,
+          6
+        ],
+        "dtype": "float32",
+        "SHA256": "cea45a09f80a53d325e649aaca121d72b7e67559fb49fbd5c150249d3613d25f"
+      },
+      "F": {
+        "shape": [
+          1903,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "21ed61b187235e0b601a8e903063890322ec98e3ec851dd1184d20a43f007ec3"
+      },
+      "G": {
+        "shape": [
+          1903,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "118f342329a7f1584d34eb4bd08066ba55ad9695dc60d1fd6f051d69b0d9e9df"
+      }
+    }
+  },
+  "missing-1700000021": {
+    "case": "missing",
+    "seed": 1700000021,
+    "FE": 16000,
+    "paid": {
+      "X": {
+        "shape": [
+          16000,
+          6
+        ],
+        "dtype": "float32",
+        "SHA256": "2b032a223cfcf1c1db38ae4163a50746d087adcd46b67dc1edb200024c6a9c41"
+      },
+      "F": {
+        "shape": [
+          16000,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "b279dc93c1ecf0a50cf1eb78dfc96b736404fb9fb7501b9a35577b3bc7a337e8"
+      },
+      "G": {
+        "shape": [
+          16000,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "991bd2ce1170c40e3e593b7c09e11d0609a9e2c299ad571d662def3d05395f9e"
+      },
+      "M": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "terminal": {
+      "X": {
+        "shape": [
+          1969,
+          6
+        ],
+        "dtype": "float32",
+        "SHA256": "3f3d2ff07638648594cbab1ad4848640c4e0e8121f7d92af7c789b3c9df152ae"
+      },
+      "F": {
+        "shape": [
+          1969,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "9438eecdcdfb63209f07553479d348571198ab57bd5e5da35206c06acc0561fe"
+      },
+      "G": {
+        "shape": [
+          1969,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "6728ce4c807ab46ba1c45aabffd435a6bba3bb6c54ce769ef595255ed9d39b98"
+      }
+    }
+  },
+  "zdt1-1700000001": {
+    "case": "zdt1",
+    "seed": 1700000001,
+    "FE": 16000,
+    "paid": {
+      "X": {
+        "shape": [
+          16000,
+          8
+        ],
+        "dtype": "float32",
+        "SHA256": "2f295bb6cd89416ed9c4fc259a4d8170feab29c698e015c49ea654dacb972480"
+      },
+      "F": {
+        "shape": [
+          16000,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "7825bed91b43489371a81780e3abe03968f5339135b8ca56f69318f655d48025"
+      },
+      "G": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "M": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "terminal": {
+      "X": {
+        "shape": [
+          4558,
+          8
+        ],
+        "dtype": "float32",
+        "SHA256": "248c2b05145c92e88eb09dc643836ddafbba920ebe05ddea76dabe841d28c8d8"
+      },
+      "F": {
+        "shape": [
+          4558,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "bd3f26f34bb2658d0124ba001957cc9a339d3f7c3dc9e2ad430fedbd7d3f7864"
+      },
+      "G": {
+        "shape": [
+          4558,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    }
+  },
+  "zdt1-1700000021": {
+    "case": "zdt1",
+    "seed": 1700000021,
+    "FE": 16000,
+    "paid": {
+      "X": {
+        "shape": [
+          16000,
+          8
+        ],
+        "dtype": "float32",
+        "SHA256": "387abe4b7be6c66dc07fd742c7250adf1df418ecd52cfddb67b97bfd4fa14a1b"
+      },
+      "F": {
+        "shape": [
+          16000,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "f7520b11b13d5b9c29f4ba951886ed81b8d5af41bb539eb3cfeae704898c8a67"
+      },
+      "G": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      "M": {
+        "shape": [
+          16000,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    },
+    "terminal": {
+      "X": {
+        "shape": [
+          4350,
+          8
+        ],
+        "dtype": "float32",
+        "SHA256": "dbd1ef1f876109bc27f6c2d5de396c2227df97d5fe961381ceca46d962d7613d"
+      },
+      "F": {
+        "shape": [
+          4350,
+          2
+        ],
+        "dtype": "float32",
+        "SHA256": "e1fe14ced304bfb914e4b09d307def97aa8650fb95dda9848eb849da517d201d"
+      },
+      "G": {
+        "shape": [
+          4350,
+          0
+        ],
+        "dtype": "float32",
+        "SHA256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    }
+  }
+}

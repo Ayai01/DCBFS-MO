@@ -1,0 +1,8 @@
+{
+  "schema": "dcbfs-experimental-panel-v1",
+  "panel_id": "none-after-formal118-adoption",
+  "status": "no_active_experimental_cases",
+  "formal_member": false,
+  "cases": {},
+  "previous_panel": "data/panels/experimental4-20261111.json"
+}

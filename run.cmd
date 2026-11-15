@@ -1,0 +1,8 @@
+@echo off
+setlocal
+set PYTHONHASHSEED=0
+set OMP_NUM_THREADS=1
+set OPENBLAS_NUM_THREADS=1
+set MKL_NUM_THREADS=1
+set NUMBA_NUM_THREADS=1
+"%~dp0DCBFS-MO.exe" %*

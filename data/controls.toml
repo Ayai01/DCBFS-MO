@@ -1,0 +1,219 @@
+
+["controls"]
+
+["controls"."fc_full"]
+"label" = "Complete DCBFS"
+"worker_file" = "controls/causal.py"
+"worker_SHA256" = "df5f65e2d8d01816c1e2b80cfdb501ac81155d945cfae32092f77fed9c3f7163"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."fc_no_RR"]
+"label" = "Without coordinate probing and reuse"
+"worker_file" = "controls/causal.py"
+"worker_SHA256" = "df5f65e2d8d01816c1e2b80cfdb501ac81155d945cfae32092f77fed9c3f7163"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."fc_no_composition"]
+"label" = "Qualified probing;composition slots returned to original GA"
+"worker_file" = "controls/causal.py"
+"worker_SHA256" = "df5f65e2d8d01816c1e2b80cfdb501ac81155d945cfae32092f77fed9c3f7163"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."fc_elite"]
+"label" = "Independent coordinate values from the same native elite pool"
+"worker_file" = "controls/causal.py"
+"worker_SHA256" = "df5f65e2d8d01816c1e2b80cfdb501ac81155d945cfae32092f77fed9c3f7163"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."fc_fixed_coordinates"]
+"label" = "Ungated fixed-share native coordinate search"
+"worker_file" = "controls/causal.py"
+"worker_SHA256" = "df5f65e2d8d01816c1e2b80cfdb501ac81155d945cfae32092f77fed9c3f7163"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."fc_global"]
+"label" = "Global search component"
+"worker_file" = "controls/causal.py"
+"worker_SHA256" = "df5f65e2d8d01816c1e2b80cfdb501ac81155d945cfae32092f77fed9c3f7163"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."fc_global_classic"]
+"label" = "Conventionalized global hybrid"
+"worker_file" = "controls/causal.py"
+"worker_SHA256" = "df5f65e2d8d01816c1e2b80cfdb501ac81155d945cfae32092f77fed9c3f7163"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."fc_full_classic"]
+"label" = "Full with conventionalized global policy"
+"worker_file" = "controls/causal.py"
+"worker_SHA256" = "df5f65e2d8d01816c1e2b80cfdb501ac81155d945cfae32092f77fed9c3f7163"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."fc_no_RM"]
+"label" = "Without regional forward-model proposals"
+"worker_file" = "controls/causal.py"
+"worker_SHA256" = "df5f65e2d8d01816c1e2b80cfdb501ac81155d945cfae32092f77fed9c3f7163"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."fc_no_FB"]
+"label" = "Without global feasibility bridging"
+"worker_file" = "controls/causal.py"
+"worker_SHA256" = "df5f65e2d8d01816c1e2b80cfdb501ac81155d945cfae32092f77fed9c3f7163"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."lf_full"]
+"label" = "Complete selected DCBFS"
+"worker_file" = "controls/local.py"
+"worker_SHA256" = "3838859e719d545eee96fd32eef408b1d9b68e2ea46c97c8025eb0e4bf082691"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."lf_first_qualified"]
+"label" = "Freeze value at first qualification;probes and current learning continue"
+"worker_file" = "controls/local.py"
+"worker_SHA256" = "3838859e719d545eee96fd32eef408b1d9b68e2ea46c97c8025eb0e4bf082691"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."lf_forward"]
+"label" = "Native forward-gradient fallback with physical repair"
+"worker_file" = "controls/local.py"
+"worker_SHA256" = "3838859e719d545eee96fd32eef408b1d9b68e2ea46c97c8025eb0e4bf082691"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."lf_no_repair"]
+"label" = "Inverse reconstruction without physical repair"
+"worker_file" = "controls/local.py"
+"worker_SHA256" = "3838859e719d545eee96fd32eef408b1d9b68e2ea46c97c8025eb0e4bf082691"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."lf_forward_no_repair"]
+"label" = "Native forward-gradient fallback without physical repair"
+"worker_file" = "controls/local.py"
+"worker_SHA256" = "3838859e719d545eee96fd32eef408b1d9b68e2ea46c97c8025eb0e4bf082691"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "H-LIR06", "H-MMF2", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz2-m5-d50", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "final-causal-control"
+
+["controls"."pr_full"]
+"label" = "pr_full"
+"worker_file" = "controls/parameters.py"
+"worker_SHA256" = "2e1a985a01b4ed501533e944e47909b1ad2c914d01b9a3aa1acaa277eea7fd17"
+"arm" = "final-causal-control"
+"cases" = ["ZDT1", "DTLZ6M3", "WFG6M5", "native-mw2", "native-dascmop9-difficulty4", "H-LIR06", "H-MMF2", "dtlz2-m5-d50"]
+
+["controls"."pr_response_tight"]
+"label" = "pr_response_tight"
+"worker_file" = "controls/parameters.py"
+"worker_SHA256" = "2e1a985a01b4ed501533e944e47909b1ad2c914d01b9a3aa1acaa277eea7fd17"
+"arm" = "final-causal-control"
+"cases" = ["ZDT1", "DTLZ6M3", "WFG6M5", "native-mw2", "native-dascmop9-difficulty4", "H-LIR06", "H-MMF2", "dtlz2-m5-d50"]
+
+["controls"."pr_response_loose"]
+"label" = "pr_response_loose"
+"worker_file" = "controls/parameters.py"
+"worker_SHA256" = "2e1a985a01b4ed501533e944e47909b1ad2c914d01b9a3aa1acaa277eea7fd17"
+"arm" = "final-causal-control"
+"cases" = ["ZDT1", "DTLZ6M3", "WFG6M5", "native-mw2", "native-dascmop9-difficulty4", "H-LIR06", "H-MMF2", "dtlz2-m5-d50"]
+
+["controls"."pr_skill_low"]
+"label" = "pr_skill_low"
+"worker_file" = "controls/parameters.py"
+"worker_SHA256" = "2e1a985a01b4ed501533e944e47909b1ad2c914d01b9a3aa1acaa277eea7fd17"
+"arm" = "final-causal-control"
+"cases" = ["ZDT1", "DTLZ6M3", "WFG6M5", "native-mw2", "native-dascmop9-difficulty4", "H-LIR06", "H-MMF2", "dtlz2-m5-d50"]
+
+["controls"."pr_skill_high"]
+"label" = "pr_skill_high"
+"worker_file" = "controls/parameters.py"
+"worker_SHA256" = "2e1a985a01b4ed501533e944e47909b1ad2c914d01b9a3aa1acaa277eea7fd17"
+"arm" = "final-causal-control"
+"cases" = ["ZDT1", "DTLZ6M3", "WFG6M5", "native-mw2", "native-dascmop9-difficulty4", "H-LIR06", "H-MMF2", "dtlz2-m5-d50"]
+
+["controls"."pr_radius_small"]
+"label" = "pr_radius_small"
+"worker_file" = "controls/parameters.py"
+"worker_SHA256" = "2e1a985a01b4ed501533e944e47909b1ad2c914d01b9a3aa1acaa277eea7fd17"
+"arm" = "final-causal-control"
+"cases" = ["ZDT1", "DTLZ6M3", "WFG6M5", "native-mw2", "native-dascmop9-difficulty4", "H-LIR06", "H-MMF2", "dtlz2-m5-d50"]
+
+["controls"."pr_radius_large"]
+"label" = "pr_radius_large"
+"worker_file" = "controls/parameters.py"
+"worker_SHA256" = "2e1a985a01b4ed501533e944e47909b1ad2c914d01b9a3aa1acaa277eea7fd17"
+"arm" = "final-causal-control"
+"cases" = ["ZDT1", "DTLZ6M3", "WFG6M5", "native-mw2", "native-dascmop9-difficulty4", "H-LIR06", "H-MMF2", "dtlz2-m5-d50"]
+
+["controls"."pr_relation_off"]
+"label" = "pr_relation_off"
+"worker_file" = "controls/parameters.py"
+"worker_SHA256" = "2e1a985a01b4ed501533e944e47909b1ad2c914d01b9a3aa1acaa277eea7fd17"
+"arm" = "final-causal-control"
+"cases" = ["ZDT1", "DTLZ6M3", "WFG6M5", "native-mw2", "native-dascmop9-difficulty4", "H-LIR06", "H-MMF2", "dtlz2-m5-d50"]
+
+["controls"."pr_neighbors_small"]
+"label" = "pr_neighbors_small"
+"worker_file" = "controls/parameters.py"
+"worker_SHA256" = "2e1a985a01b4ed501533e944e47909b1ad2c914d01b9a3aa1acaa277eea7fd17"
+"arm" = "final-causal-control"
+"cases" = ["native-mw2", "native-dascmop9-difficulty4", "H-LIR06", "dtlz2-m5-d50"]
+
+["controls"."pr_neighbors_large"]
+"label" = "pr_neighbors_large"
+"worker_file" = "controls/parameters.py"
+"worker_SHA256" = "2e1a985a01b4ed501533e944e47909b1ad2c914d01b9a3aa1acaa277eea7fd17"
+"arm" = "final-causal-control"
+"cases" = ["native-mw2", "native-dascmop9-difficulty4", "H-LIR06", "dtlz2-m5-d50"]
+
+["controls"."mv_learned"]
+"label" = "Learned response values;256-point diagnostic"
+"worker_file" = "controls/matched_values.py"
+"worker_SHA256" = "97df4c8c16c51f49949a61ca0fc4e9e9755f09902adad017c2f2798dc6fbe557"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "matched-output-controls"
+
+["controls"."mv_random"]
+"label" = "Matched uniform random coordinate values"
+"worker_file" = "controls/matched_values.py"
+"worker_SHA256" = "97df4c8c16c51f49949a61ca0fc4e9e9755f09902adad017c2f2798dc6fbe557"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "matched-output-controls"
+
+["controls"."mv_elite"]
+"label" = "Coordinates from one native elite parent"
+"worker_file" = "controls/matched_values.py"
+"worker_SHA256" = "97df4c8c16c51f49949a61ca0fc4e9e9755f09902adad017c2f2798dc6fbe557"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "matched-output-controls"
+
+["controls"."mv_independent"]
+"label" = "Independent elite parent per selected coordinate"
+"worker_file" = "controls/matched_values.py"
+"worker_SHA256" = "97df4c8c16c51f49949a61ca0fc4e9e9755f09902adad017c2f2798dc6fbe557"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "matched-output-controls"
+
+["controls"."mv_full_local"]
+"label" = "Complete local-search path;256-point diagnostic"
+"worker_file" = "controls/matched_values.py"
+"worker_SHA256" = "97df4c8c16c51f49949a61ca0fc4e9e9755f09902adad017c2f2798dc6fbe557"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "matched-output-controls"
+
+["controls"."mv_without_local"]
+"label" = "Without local-search path;regional model retained"
+"worker_file" = "controls/matched_values.py"
+"worker_SHA256" = "97df4c8c16c51f49949a61ca0fc4e9e9755f09902adad017c2f2798dc6fbe557"
+"cases" = ["C1DTLZ1M5", "DTLZ6M3", "MG96L", "NET", "O30C", "PORT48", "RD6L", "RF8L", "WFG6M5", "ZDT1", "ZDT3", "c3dtlz4-m10", "dtlz7-m10", "narrow16", "native-dascmop9-difficulty4", "native-mw11", "native-mw2", "panda-bookshelf_tall-0001", "panda-cage-0004", "u-wfg9-m8-d60"]
+"arm" = "matched-output-controls"

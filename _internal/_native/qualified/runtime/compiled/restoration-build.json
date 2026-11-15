@@ -1,0 +1,6 @@
+{
+  "source_SHA256": "c1c3d3c4b982c950478bc453257f7f2efd637b3f1f81a21f3e947072722a947d",
+  "binary_SHA256": "b8ee3b946a5d554bfb581cedbe566de6c95371dd39aed3f26075f62a5825c360",
+  "ABI": "cpython-314",
+  "platform": "win32"
+}

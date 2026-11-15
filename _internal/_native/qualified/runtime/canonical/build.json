@@ -1,0 +1,14 @@
+{
+  "dtype": "float32",
+  "platform": "win32",
+  "ABI": "cpython-314",
+  "numpy": "2.4.4",
+  "new_FE": 0,
+  "temporary_lifecycle": "process-owned TemporaryDirectory, closed before return",
+  "module": "canonical_basis",
+  "source_SHA256": "bae83b8eeca0bc5ef72cf3ce8a185f06bde5682c13ff0c6aa9d3f4e2445e9fac",
+  "fp32_source_SHA256": "bae83b8eeca0bc5ef72cf3ce8a185f06bde5682c13ff0c6aa9d3f4e2445e9fac",
+  "binary": "_canonical_basis.cp314-win_amd64.pyd",
+  "binary_SHA256": "812348c8122d81042f4a64e8456119125731cfdacbf0f2f38cb9d700be50f5aa",
+  "bytes": 19968
+}

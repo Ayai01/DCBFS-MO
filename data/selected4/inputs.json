@@ -1,0 +1,12 @@
+{
+  "schema": "selected4-inputs-v1",
+  "source": "SELECTED4-MATHEMATICAL-DEFINITIONS.md",
+  "assets": {
+    "root-data/AGR48-N.npz": "c1dee2ca0a8ce599a0a0d8147455be55c288a0d713613b99725d1578c22b9b4e",
+    "domain-data/DOM_RESERVOIR_BASE.npz": "1433d14f061ab7282c5f1320b6f0f51f8e0faba348595bc13febe0acd07a3433",
+    "domain-data/DOM_RIVER_DO_BASE.npz": "c654cdf76c617d8997fac14dbc9725ce627aedf67e4f1bbc7fb405c84da6f121",
+    "gaa-source/GAA.h": "78d212c56ce8a08a88669d1cb8c339729cb7f5d0faeab3f1b88ef426a1b56a7c",
+    "gaa-source/SOURCE.json": "24fea81eaf39e816eaab415482136dcbfeda5854d42bbea57ec1dfb3d0422af2",
+    "gaa-source/LICENSE-MIT.txt": "aeb3dddd8ac0f6f1e1f148e371e841cae7f0a3daacd97e179a668e914fdaead4"
+  }
+}

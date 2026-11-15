@@ -1,0 +1,8 @@
+.cache/
+__pycache__/
+*.py[co]
+!*.pyd
+results/
+outputs/
+_cli-check-*/
+_cli-validate-*/
