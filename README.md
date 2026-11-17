@@ -33,3 +33,7 @@ No Python installation is required.
 - `--backend auto` and `--backend cpp` use the qualified FP32 native profile.
 - `--backend python` retains reference Python numerical behavior through native compiled modules.
 - Full algorithm source will be published with the paper upon acceptance.
+
+## Paper experimental data
+
+The verified 118-task, 40-seed experimental dataset is available in [paper-data/tevc-20261117](paper-data/tevc-20261117). It includes per-run measurements, parameter sensitivity and the numerical summaries used by the manuscript. Download instructions, field definitions and SHA256 checksums accompany the dataset.
